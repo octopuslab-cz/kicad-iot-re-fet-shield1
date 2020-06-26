@@ -1,3 +1,7 @@
 # kicad-iot-re-fet-shield1
 
-ukázka a pokus s Ki-Cadu
+pokus v KiCadu
+
+---
+
+schéma včetně knihoven součástek a naroutované desky verze 0.1 
